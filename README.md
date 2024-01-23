@@ -1,7 +1,7 @@
-Hi! My name is Tran Quang Tri 🤩
+Hi! My name is Tran Quang Tri 🤩 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38">
 ========================================================================================================================================
 
-🌍  I am a Full-Stack Developer based in Ho Chi Minh City, Vietnam.
+🌍  I am a Full-Stack Developer based in Ho Chi Minh City, Vietnam. 
 <br/>
 
 ### Front-end Skills
